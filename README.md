@@ -2,9 +2,7 @@
 
 RehearsalAI is a robust web application designed to simulate role-based conversations for practice and preparation. Built with Next.js, Clerk for authentication, GeminiAI for conversational AI, and NeonDB with Drizzle ORM for data management, RehearsalAI is designed for flexibility and scalability.
 
-## Live Demo
 
-Try RehearsalAI here: [https://rehearsal-ai.vercel.app/](https://rehearsal-ai.vercel.app/)
 
 ---
 
