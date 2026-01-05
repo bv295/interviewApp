@@ -21,7 +21,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "RehearsalAI",
+  title: "PrepView",
   description: "Realistic mock interviews powered by AI, helping users enhance their interview skills with personalized feedback and insights.",
 };
 
