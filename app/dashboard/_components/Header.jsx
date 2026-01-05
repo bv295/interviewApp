@@ -16,7 +16,7 @@ useEffect(() => {
     <div className='flex p-4 items-center justify-between bg-secondary shadow-sm'>
         <div className="flex items-center">
     <Image src="/assets/logo.svg" alt="logo" width={25} height={25} />
-    <span className="text-xl text-[#4F46E5] ml-2">RehearsalAI</span>
+    <span className="text-xl text-[#4F46E5] ml-2">PrepView</span>
 </div>
 
      
